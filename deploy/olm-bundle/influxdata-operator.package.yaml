@@ -1,0 +1,4 @@
+packageName: influxdb-operator
+channels:
+  - name: stable
+    currentCSV: influxdata-operator.v1.0.0
